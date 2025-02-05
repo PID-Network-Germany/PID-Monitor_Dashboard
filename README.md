@@ -1,4 +1,4 @@
-# PID-Monitor
+# PID-Monitor Dashboard
 
 ## About
 
@@ -49,3 +49,10 @@ In addition, news on the development, application and implementation of PIDs wil
 ## Contact
 
 [Andreas Czerniak](pid-monitor@uni-bielefeld.de)
+
+
+# Source Code
+
+We intend to make the source code of the dashboard publicly here available.
+This will not only enhance transparency but also enable collaboration, allowing others to contribute to its further development
+and adaptation to different use cases.
